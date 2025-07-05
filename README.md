@@ -2,8 +2,6 @@
 내가 사용하는 prompt 모음집 
 
 ## 개발 
-
-### 커서 
 ```
 prompt
 ├─ .cursor
@@ -14,6 +12,8 @@ prompt
 └─ README.md
 ```
 
+TODO: GEMINI.md
+- gemini-cli 에서 개발할때 GEMINI.md 를 어떻게 설정할지! 
+
 
 ## 글쓰기 + 학습 
-
