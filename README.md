@@ -17,3 +17,13 @@ TODO: GEMINI.md
 
 
 ## 글쓰기 + 학습 
+```
+prompt
+├─ .cursor
+│  ├─ docs
+│  │  ├─ _STYLE_GUIDE.md             # 코드 스타일 가이드 
+│  └─ rules
+│     └─ personal-frontend-rule.mdc   # 범용적인 개발 룰 
+└─ README.md
+```
+
