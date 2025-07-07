@@ -1,12 +1,7 @@
 ---
-description: 
+description: 상세한 프로그래밍 원칙들
 globs: 
-alwaysApply: true
----
----
-description: 
-globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 ---
 # ===================================================================

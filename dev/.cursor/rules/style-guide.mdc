@@ -1,3 +1,9 @@
+---
+description: FSD 아키텍처 + 코드 예제 
+globs:
+alwaysApply: false
+---
+
 # 나의 React 코드 스타일 가이드
 
 ## 1. 프로젝트 구조
