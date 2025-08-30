@@ -2,6 +2,43 @@
 
 내가 사용하는 prompt 모음집
 
+
+## Claude Code
+- claude code 에서 사용하는 기능들을 활용하여 사용하기
+- v1, v2 ... 와 같은 형식으로 저장하여 계속 개선할 예정
+
+```
+.
+└── v1
+    ├── agents
+    │   ├── dev-research-specialist.md
+    │   ├── feature-architect.md
+    │   └── frontend-architect-developer.md
+    └── commands
+        └── organization.md
+```
+
+### `commands`
+- 커스텀 명령어를 추가해서 관리, 자주 사용하는 문구/명령어 를 등록해서 사용 (자주 쓰는 프롬프트 저장해서 사용하는 개념)
+- `~/.claude ` 해당 경로에 `commands` 디렉토리 안에 추가하고 싶은 커스텀 명령어 추가하면됨 
+
+
+
+### `agents`
+- claude sub agent 들을 등록해서 사용 
+
+```sh
+/agents
+# agents 목록을 보거나 "Create new agent" 메뉴 선택시 agents 생성 가능 
+```
+
+```sh
+# 사용 
+frontend-architect-developer .....
+```
+- 추가한 agent(frontend-architect-developer) 을 입력하고 요청하고 싶은 문장을 추가하면됨 
+
+
 ## 개발
 
 ```
@@ -28,3 +65,4 @@ prompt
 └─ writer
    └─ GEMINI.md                     # 글쓰기 가이드
 ```
+
