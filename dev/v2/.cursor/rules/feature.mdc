@@ -1,5 +1,5 @@
 ---
-description: 이번에 수행할 작업을 명시한 파일로, new chat 이 새로 시작하면 해당 내용 참고
+description: 현재 진행중인 작업을 명시한 파일로, new chat 이 수행되면 해당 내용 참고
 globs:
 alwaysApply: false
 ---
